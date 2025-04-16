@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mjmajlesi
+- 👀 I’m interested in Programming , Game , design and football!
+- 🌱 I’m currently learning Ml , Advance Py and NextJs
+- 📫 How to reach me mohammdjavadmajlesi313@gmail.com
