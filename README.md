@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mjmajlesi
 - 👀 I’m interested in Programming , Game , design and football!
-- 🌱 I’m currently learning Ml , Advance Py and NextJs
+- 🌱 I’m currently learning Ml and Django!
+- I'm working to many project for improve skill and improve resume.💪
 - 📫 How to reach me mohammdjavadmajlesi313@gmail.com
