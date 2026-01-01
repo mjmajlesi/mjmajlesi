@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjmajlesi
 - 👀 I’m interested in Programming , Game , design and football!
 - 🌱 I’m currently learning Ml and Django!
-- I'm working to many project for improve skill and improve resume.💪
+- I'm working on many project to improve skill and my resume.💪
 - 📫 How to reach me mohammdjavadmajlesi313@gmail.com
 - My Portfolio is https://mjmajlesi.github.io/portfolio-website/
