@@ -26,6 +26,8 @@
   </p>
 </p>
 
+<br/><br/>
+
 <p>
   📣 Connect with me:<br/>
   <a href="mailto:mohammadjavadmajlesi313@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
