@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <img align="left" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mjmajlesi&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img align="left" width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mjmajlesi&theme=tokyonight&hide_border=true&background=0d1117"/>
     <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
